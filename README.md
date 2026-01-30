@@ -1,3 +1,5 @@
+# Тестовое задание "Лента новостей The New York Times"
+
 ## Installing and running
 Install dependensies:
 
